@@ -6,7 +6,9 @@
 
 **`Student Developer`**
 
-I am a current undergraduate student at the University of Washington currently pursuing a *double degree* in Computer Science and Informatics. I believe that communication is key in life. 
+~ _Communication is key in life_
+
+Undergraduate student at the University of Washington currently pursuing a *double degree* in Computer Science and Informatics. 
 
 ---
 
