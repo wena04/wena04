@@ -13,6 +13,6 @@ Undergraduate student at the University of Washington currently pursuing a *doub
 ---
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin
-[linkedin-url]: www.linkedin.com/in/anthony-wen-programmer
+[linkedin-url]: https://linkedin.com/in/anthony-wen-programmer
 [email-shield]: https://img.shields.io/badge/email-153595?style=for-the-badge&logo=gmail&logoColor=white
 [email-url]: mailto:wena04@uw.edu
