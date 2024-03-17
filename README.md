@@ -34,3 +34,7 @@ Undergraduate student at the University of Washington currently pursuing a *doub
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <br />
+
+--- 
+
+![Anthony's Top Languages (refresh)](https://github-readme-stats.vercel.app/api/top-langs/?username=wena04&layout=compact&theme=one_dark_pro&bg_color=00000000&border_color=e2e2e2&text_color=ce832c#gh-light-mode-only)
