@@ -43,9 +43,16 @@ Currently:
 
 <br />
 
+--- 
+
 ### Projects and Portfolio
 
+<a href = "https://drive.google.com/file/d/1hx23XGBuCu_u3P_DARiGyWa5UGCm5tBt/view?usp=sharing"><img width="300" alt="Screenshot 2024-05-26 at 4 59 14 AM" src="https://github.com/wena04/wena04/assets/152733514/40570707-f8d3-4b21-bb4c-edc50f553b06"></a>
+<a href = "https://drive.google.com/file/d/1JrCXgixEX8osZyXPQgzhIO_wBmj537vi/view?usp=sharing"><img width="300" alt="Screenshot 2024-05-26 at 5 04 28 AM" src="https://github.com/wena04/wena04/assets/152733514/6babd75d-b727-4e65-b517-b9878682457a"></a>
 
---- 
+<a href = "https://drive.google.com/file/d/1ZBEyjDk2QXocxDbFstXs4e3nNyQH3Rqc/view?usp=sharing"><img width="300" alt="Screenshot 2024-05-26 at 5 06 49 AM" src="https://github.com/wena04/wena04/assets/152733514/a0bbef1b-abb7-4f77-aea0-505fa824d2c1"></a>
+<a href = "https://drive.google.com/file/d/1gP0mhcGH3UnfODoPwd4sMkxoKiXSCEK5/view?usp=sharing"><img width="300" alt="Screenshot 2024-05-26 at 5 08 16 AM" src="https://github.com/wena04/wena04/assets/152733514/e48ed972-c918-49a3-878c-bb7f5acb38f1"> </a>
+
+---
 
 ![Anthony's Top Languages (refresh)](https://github-readme-stats.vercel.app/api/top-langs/?username=wena04&layout=compact&theme=one_dark_pro&bg_color=00000000&border_color=e2e2e2&text_color=ce832c#gh-light-mode-only&cache_bust=1)
