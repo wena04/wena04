@@ -5,7 +5,7 @@
 [![][email-shield]][email-url]
 
 <p align="center">
-<a href="https://google.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7CC&center=true&vCenter=true&width=435&lines=Software+Developer+%26+Student;Learning+%26+Building+%26+Exploring" alt="Typing" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Developer%2C+Designer%2C+Student" alt="Typing SVG" /></a>
 </p>
 
 **`Student Developer`**
@@ -55,4 +55,4 @@ Currently:
 
 ---
 
-![Anthony's Top Languages (refresh)](https://github-readme-stats.vercel.app/api/top-langs/?username=wena04&layout=compact&theme=one_dark_pro&bg_color=00000000&border_color=e2e2e2&text_color=ce832c#gh-light-mode-only&cache_bust=1)
+![Anthony's Top Languages (!refresh)](https://github-readme-stats.vercel.app/api/top-langs/?username=wena04&layout=compact&theme=one_dark_pro&bg_color=00000000&border_color=e2e2e2&text_color=ce832c#gh-light-mode-only&cache_bust=1)
