@@ -12,7 +12,12 @@
 
 ~ _Communication is key in life_
 
-Undergraduate student at the University of Washington currently pursuing a *double degree* in Computer Science and Informatics. 
+Undergraduate student at the University of Washington currently pursuing a *double degree* in Computer Science and Informatics. Open to work!
+
+Currently:
+- Leetcoding & job searching
+- Planning to create a personal website
+- Taking CSE and INFO courses 
 
 ---
 
@@ -33,7 +38,13 @@ Undergraduate student at the University of Washington currently pursuing a *doub
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" />
+
 <br />
+
+### Projects and Portfolio
+
 
 --- 
 
