@@ -48,4 +48,4 @@ Currently:
 
 --- 
 
-![Anthony's Top Languages (refresh)](https://github-readme-stats.vercel.app/api/top-langs/?username=wena04&layout=compact&theme=one_dark_pro&bg_color=00000000&border_color=e2e2e2&text_color=ce832c#gh-light-mode-only)
+![Anthony's Top Languages (refresh)](https://github-readme-stats.vercel.app/api/top-langs/?username=wena04&layout=compact&theme=one_dark_pro&bg_color=00000000&border_color=e2e2e2&text_color=ce832c#gh-light-mode-only&cache_bust=1)
