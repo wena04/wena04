@@ -57,7 +57,7 @@ Currently:
 
 ### UI/UX Portfolio
 
-<a href = "https://drive.google.com/file/d/1hx23XGBuCu_u3P_DARiGyWa5UGCm5tBt/view?usp=sharing"><img width="400" alt="Screenshot 2024-05-26 at 4 59 14 AM" src="https://github.com/wena04/wena04/assets/152733514/40570707-f8d3-4b21-bb4c-edc50f553b06"></a>
+<a href = "https://drive.google.com/file/d/1hx23XGBuCu_u3P_DARiGyWa5UGCm5tBt/view?usp=sharing"><img width="300" height="150" alt="Screenshot 2024-05-26 at 4 59 14 AM" src="https://github.com/wena04/wena04/assets/152733514/40570707-f8d3-4b21-bb4c-edc50f553b06"></a>
 <a href = "https://drive.google.com/file/d/1JrCXgixEX8osZyXPQgzhIO_wBmj537vi/view?usp=sharing"><img width="300" alt="Screenshot 2024-05-26 at 5 04 28 AM" src="https://github.com/wena04/wena04/assets/152733514/6babd75d-b727-4e65-b517-b9878682457a"></a>
 <a href = "https://www.figma.com/proto/LwjP9jGd7bmgFA2xF9OAOr/ideas-%2F-draft?type=design&node-id=34-1356&t=FfBO8el42MWNwzdo-0&scaling=min-zoom&page-id=0%3A1"><img width="300" height="150" alt="Screenshot 2024-06-20 at 1 49 42 AM" src="https://github.com/wena04/wena04/assets/152733514/a29bd32c-8960-472a-a551-7d863edf4f05">
 </a>
