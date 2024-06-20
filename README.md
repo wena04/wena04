@@ -47,9 +47,17 @@ Currently:
 
 ![Anthony's Top Languages (!refresh)](https://github-readme-stats.vercel.app/api/top-langs/?username=wena04&layout=compact&theme=one_dark_pro&bg_color=00000000&border_color=e2e2e2&text_color=ce832c#gh-light-mode-only&cache_bust=1)
 
-### Projects and Portfolio
+### Programming Projects (Repo Below Read Me)
 
-<a href = "https://drive.google.com/file/d/1hx23XGBuCu_u3P_DARiGyWa5UGCm5tBt/view?usp=sharing"><img width="300" alt="Screenshot 2024-05-26 at 4 59 14 AM" src="https://github.com/wena04/wena04/assets/152733514/40570707-f8d3-4b21-bb4c-edc50f553b06"></a>
+
+<a href = "https://info-340-kack.web.app/"><img width="350" height="200" alt="Screenshot 2024-06-20 at 1 59 20 AM" src="https://github.com/wena04/wena04/assets/152733514/8944f68c-1b98-4f31-8ea1-9c8c99376826"></a>
+<a href = "https://wena04.shinyapps.io/INFO-201-Global-Economy-and-Climate-Change/"><img width="300" height="200" alt="Screenshot 2024-06-20 at 2 02 36 AM" src="https://github.com/wena04/wena04/assets/152733514/37257a12-6e85-486d-9ac8-a24073efc54b"></a>
+<a href = "https://devpost.com/software/fuel-maps"><img width="200" height="200" alt="Screenshot" src="https://github.com/wena04/Inrix-Amazon-Hack-2023/assets/152733514/14889ef7-3d7f-44fb-8e4d-6358ef6bd115"></a>
+
+
+### UI/UX Portfolio
+
+<a href = "https://drive.google.com/file/d/1hx23XGBuCu_u3P_DARiGyWa5UGCm5tBt/view?usp=sharing"><img width="400" alt="Screenshot 2024-05-26 at 4 59 14 AM" src="https://github.com/wena04/wena04/assets/152733514/40570707-f8d3-4b21-bb4c-edc50f553b06"></a>
 <a href = "https://drive.google.com/file/d/1JrCXgixEX8osZyXPQgzhIO_wBmj537vi/view?usp=sharing"><img width="300" alt="Screenshot 2024-05-26 at 5 04 28 AM" src="https://github.com/wena04/wena04/assets/152733514/6babd75d-b727-4e65-b517-b9878682457a"></a>
 <a href = "https://www.figma.com/proto/LwjP9jGd7bmgFA2xF9OAOr/ideas-%2F-draft?type=design&node-id=34-1356&t=FfBO8el42MWNwzdo-0&scaling=min-zoom&page-id=0%3A1"><img width="300" height="150" alt="Screenshot 2024-06-20 at 1 49 42 AM" src="https://github.com/wena04/wena04/assets/152733514/a29bd32c-8960-472a-a551-7d863edf4f05">
 </a>
