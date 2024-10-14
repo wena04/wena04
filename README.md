@@ -53,6 +53,7 @@ Currently:
 <a href = "https://info-340-kack.web.app/"><img width="350" height="200" alt="Screenshot 2024-06-20 at 1 59 20 AM" src="https://github.com/wena04/wena04/assets/152733514/8944f68c-1b98-4f31-8ea1-9c8c99376826"></a>
 <a href = "https://wena04.shinyapps.io/INFO-201-Global-Economy-and-Climate-Change/"><img width="300" height="200" alt="Screenshot 2024-06-20 at 2 02 36 AM" src="https://github.com/wena04/wena04/assets/152733514/37257a12-6e85-486d-9ac8-a24073efc54b"></a>
 <a href = "https://devpost.com/software/fuel-maps"><img width="200" height="200" alt="Screenshot" src="https://github.com/wena04/Inrix-Amazon-Hack-2023/assets/152733514/14889ef7-3d7f-44fb-8e4d-6358ef6bd115"></a>
+<a href = "https://devpost.com/software/tfind-0qaop5?ref_content=user-portfolio&ref_feature=in_progress"><img width="250" height="200" alt="Screenshot 2024-10-13 at 9 45 38 AM" src="https://github.com/user-attachments/assets/57bde227-6ba3-41bb-a303-48e495bed77c"></a>
 
 
 ### UI/UX Portfolio
