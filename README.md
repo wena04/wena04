@@ -17,7 +17,7 @@ Undergraduate student at the University of Washington currently pursuing a *doub
 Currently:
 - Leetcoding & job searching
 - Planning to create a personal website
-- Taking Server Side Development, Systems Programming, and other CSE and INFO courses 
+- TA for Frontend and Server Side Development 
 
 ---
 
