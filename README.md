@@ -3,6 +3,9 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![][email-shield]][email-url]
+  <a href="https://drive.google.com/file/d/1wPwrJMlw9UijSyq7IgYBYQN73hdV-93e/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-FFC0CB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Developer%2C+Designer%2C+Student" alt="Typing SVG" /></a>
