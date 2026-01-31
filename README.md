@@ -3,7 +3,7 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![][email-shield]][email-url]
-  <a href="https://drive.google.com/file/d/1wPwrJMlw9UijSyq7IgYBYQN73hdV-93e/view?usp=sharing">
+  <a href="">
     <img src="https://img.shields.io/badge/Resume-FFC0CB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 
